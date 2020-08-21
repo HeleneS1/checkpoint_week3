@@ -19,12 +19,3 @@ def to_camel_case(text):
     return (str1.join(sep_camels)) 
     
 
-
-
- 
-    
-    
-    
-       
-    
-        
