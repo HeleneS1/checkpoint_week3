@@ -26,7 +26,7 @@ def employee_score(name):
     if name['meetings'] > 20:
         total_score += 100
         
-    if name['sales'] > 20:
+    if name['sales'] > 5:
         total_score += 100
         
     name['score'] = total_score
